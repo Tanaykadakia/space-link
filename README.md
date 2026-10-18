@@ -65,3 +65,5 @@ Available nodes: `EARTH`, `SAT1`, `SAT2`, `MOON`, `MARS`, `SAT3` (uppercase only
 ## Author
 
 Tanay Kadakia
+Mahee Mantri
+Kunal Jain
